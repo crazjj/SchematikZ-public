@@ -25,8 +25,8 @@ This project is under active development, with a strong focus on stability, main
 Stay tuned ❤️
 https://discord.gg/dVWHmAWrxn
 
-## Mineschmatic
-I'm in direct contact with the dev of [mineschematic](https://mineschematic.com), feel free to visit it, its already really well working community focused schematic library. There will be strong integration with SchematikZ
+## Schematicraft
+I'm in direct contact with the dev of [schematicraft](https://schematicraft.com), feel free to visit it, its already really well working community focused schematic library. There will be strong integration with SchematikZ
 
 > ## What’s planned
 > SchematikZ is actively developed by me with a roadmap, including:
