@@ -1,6 +1,6 @@
 # SchematikZ
 
-...a server-side building utility overlay minecraft plugin. *No client mod needed* 🤯 https://discord.gg/dVWHmAWrxn
+...a server-side building utility overlay minecraft plugin. *No client mod needed* 🤯
 
 
 > - with client and server performace in mind with some "hacks" I'm utilizing ghost blocks and display entities with packets to their full extent
