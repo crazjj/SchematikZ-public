@@ -22,6 +22,7 @@
 
 # Status 🫀
 This project is under active development, with a strong focus on stability, maintainability, and performance. If you want a server-side Litematica-style experience on Paper: SchematikZ is built for that.
+
 Stay tuned ❤️
 https://discord.gg/dVWHmAWrxn
 
