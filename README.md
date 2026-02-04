@@ -1,6 +1,6 @@
 # SchematikZ
 
-...a server-side building utility overlay minecraft plugin. *No client mod needed* 🤯
+...a server-side building utility overlay minecraft plugin written in Kotllin. *No client mod needed* 🤯
 
 
 > - with client and server performace in mind with some "hacks" I'm utilizing ghost blocks and display entities with packets to their full extent
@@ -21,9 +21,12 @@
 - Multiplayer-ready approach: Designed with visibility management and per-viewer handling in mind
 
 # Status 🫀
-This project is under active development, with a strong focus on stability, maintainability, and performance. I'm in direct contact with the dev of [mineschematic](https://mineschematic.com)... If you want a server-side Litematica-style experience on Paper: SchematikZ is built for that.
+This project is under active development, with a strong focus on stability, maintainability, and performance. If you want a server-side Litematica-style experience on Paper: SchematikZ is built for that.
 Stay tuned ❤️
 https://discord.gg/dVWHmAWrxn
+
+## Mineschmatic
+I'm in direct contact with the dev of [mineschematic](https://mineschematic.com), feel free to visit it, its already really well working community focused schematic library. There will be strong integration with SchematikZ
 
 > ## What’s planned
 > SchematikZ is actively developed by me with a roadmap, including:
