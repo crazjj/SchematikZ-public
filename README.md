@@ -2,18 +2,19 @@
 
 ...a server-side building utility overlay minecraft plugin written in Kotllin. *No client mod needed* 🤯
 
+<img width="65%" alt="pic" src="https://github.com/user-attachments/assets/c38b3e5b-4783-4864-9cf8-34dea4cdcdb2" />
+<img width="30%" alt="logo" src="https://github.com/user-attachments/assets/8f72af1b-c5ad-45f0-b9c0-95af615a9829" />
 
 > - with client and server performace in mind with some "hacks" I'm utilizing ghost blocks and display entities with packets to their full extent
 > - similar in spirit to Litematica, but designed to run server-side
 > - built for *survival building* (e.g. complex farms), *team projects*, and servers that want precise, reliable building guidance for everyone with as little friction as possible
 
-![](./pic.png)
 
 ## For players ⌨️
 - Build with confidence: See exactly what goes where while building, without guessing orientations or missing details... Possibliy even as a team
 - Survival-friendly workflows: Optional modes like “easy place” help you place correctly while still requiring the right materials
-- Cleaner building sessions: The overlay is visual guidance - it doesn’t permanently modify the world just to “show” the schematic in any way
-- Accurate block handling: Rotation, direction, hanging placements, and other tricky vanilla block behaviors are a priority
+- Cleaner building sessions: The overlay is visual guidance... it doesn’t permanently modify the world just to “show” the schematic in any way (uses packets)
+- Accurate block handling: Rotation, block face attachments and other tricky vanilla block behaviors are a priority
 
 ## For server owners 🖥️
 - Performance-first rendering: Built around optimized, packet-based techniques to keep large schematics practical
